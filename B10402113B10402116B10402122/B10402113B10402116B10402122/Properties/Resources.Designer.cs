@@ -4,7 +4,7 @@
 //     執行階段版本:4.0.30319.42000
 //
 //     變更這個檔案可能會導致不正確的行為，而且如果已重新產生
-//     程式碼，這個檔案將會遺失。
+//     程式碼，則會遺失變更。
 // </auto-generated>
 //------------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ namespace B10402113B10402116B10402122.Properties
     ///   用於查詢當地語系化字串等的強類型資源類別
     /// </summary>
     // 這個類別是自動產生的，是利用 StronglyTypedResourceBuilder
-    // 類別透過 ResGen 或 Visual Studio 這類工具。
+    // 類別透過 ResGen 或 Visual Studio 這類工具產生。
     // 若要加入或移除成員，請編輯您的 .ResX 檔，然後重新執行 ResGen
     // (利用 /str 選項)，或重建您的 VS 專案。
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
