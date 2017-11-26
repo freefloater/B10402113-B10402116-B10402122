@@ -21,5 +21,10 @@ namespace B10402113B10402116B10402122
             
             label1.Text = a.Rend().ToString();
         }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            ClassB b = new ClassB();
+        }
     }
 }

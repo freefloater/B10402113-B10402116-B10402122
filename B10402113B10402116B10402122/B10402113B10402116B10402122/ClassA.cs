@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
+
 namespace B10402113B10402116B10402122
 {
     class ClassA
